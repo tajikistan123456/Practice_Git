@@ -12,5 +12,9 @@ public class Third {
 
     // don't forget take your umbrella
 
+      // it's sunny today
 
+    // good to go outside
+
+    // enjoy your days
 }
