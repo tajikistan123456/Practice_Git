@@ -7,4 +7,10 @@ public class Third {
     // more got text
 
     // more and more got tasks
+
+    // it's raining outside
+
+    // don't forget take your umbrella
+
+
 }
