@@ -2,7 +2,9 @@ package setup;
 
 public class Truck {
 
-    // this is truck for master branch
+    // this truck from smith branch
 
-    // this is new truck
+    // more text
+
+    // more text
 }
